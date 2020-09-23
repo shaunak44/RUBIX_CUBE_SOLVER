@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIR3 Pin=*-22
+Removed Pin From Net: NetName=STEP3 Pin=*-23
+Added Pin To Net: NetName=STEP3 Pin=*-22
+Added Pin To Net: NetName=DIR3 Pin=*-23

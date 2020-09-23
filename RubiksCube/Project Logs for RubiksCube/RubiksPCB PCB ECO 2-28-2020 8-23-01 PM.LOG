@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=ColorOUT Pin=*-14
+Added Component: Designator=CL1(RES0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=CL2(RES0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=CL3(RES0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CL2-1
+Added Pin To Net: NetName=ColorOUT Pin=CL3-2
+Added Pin To Net: NetName=ColorOUT1 Pin=*-14
+Added Pin To Net: NetName=ColorOUT1 Pin=CL1-1
+Added Pin To Net: NetName=ColorOUT1 Pin=CL3-1
+Added Net: Name=ColorOUT1
+Added Pin To Net: NetName=NetCL1_2 Pin=CL1-2
+Added Pin To Net: NetName=NetCL1_2 Pin=CL2-2
+Added Net: Name=NetCL1_2
+Added Member To Class: ClassName=Schematic Member=Component CL1 10K
+Added Member To Class: ClassName=Schematic Member=Component CL2 10K
+Added Member To Class: ClassName=Schematic Member=Component CL3 10K

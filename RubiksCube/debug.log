@@ -1,0 +1,7 @@
+[0226/145129:WARNING:http_network_transaction.cc(339)] Blocked proxy response with status 407 to CONNECT request for www.altium.com:443.
+[0226/160912:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0226/160913:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0301/141723:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0301/141724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0301/141724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0301/141724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

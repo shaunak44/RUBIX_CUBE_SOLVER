@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=ColorSensor Old DesignItemId=61900811021 New DesignItemId=61900811121
+Change Component Footprint: Designator=ColorSensor Old Footprint=61900811021 New Footprint=61900811121
+Change Component Comment : Designator=ColorSensor Old Comment=61900811021 New Comment=
+Change Component Description : Designator=ColorSensor Old Description=WR-WTB 2.54mm Male Left Angled Header Bottom Locking, 8p New Description=WR-WTB 2.54mm Male Locking Header, 8p
+Change component parameters: Designator = "ColorSensor"; Footprint = "61900811121"; UniqueID = "\XXAHMSDJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6190xx11121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61900811121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "June 2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Room: Name=Schematic

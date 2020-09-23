@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DIR3 Pin=*-57
+Removed Pin From Net: NetName=STEP3 Pin=*-58
+Added Room: Name=Schematic

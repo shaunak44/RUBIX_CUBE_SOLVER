@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=STEP4 Pin=*-52
+Removed Pin From Net: NetName=DIR4 Pin=*-53
+Added Pin To Net: NetName=DIR4 Pin=*-40
+Added Pin To Net: NetName=STEP4 Pin=*-41
+Added Pin To Net: NetName=PC10 Pin=*-51
+Added Pin To Net: NetName=PC11 Pin=*-52
+Added Pin To Net: NetName=PC12 Pin=*-53
+Added Pin To Net: NetName=PD2 Pin=*-54
+Added Pin To Net: NetName=PB3 Pin=*-55
+Added Pin To Net: NetName=PB4 Pin=*-56
+Added Room: Name=Schematic

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DIR6 Pin=*-21
+Removed Pin From Net: NetName=STEP6 Pin=*-22
+Removed Pin From Net: NetName=DIR3 Pin=*-24
+Added Pin To Net: NetName=DIR6 Pin=*-20
+Added Pin To Net: NetName=STEP6 Pin=*-21
+Added Pin To Net: NetName=DIR3 Pin=*-22
+Added Room: Name=Schematic

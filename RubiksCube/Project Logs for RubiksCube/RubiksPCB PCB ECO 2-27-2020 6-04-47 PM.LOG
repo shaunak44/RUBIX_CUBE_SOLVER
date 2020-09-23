@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=LD_1 Old DesignItemId=LED SMD 0805 New DesignItemId=LED 3mm
+Change Component DesignItemId : Designator=LD_2 Old DesignItemId=LED SMD 0805 New DesignItemId=LED 3mm
+Change Component Footprint: Designator=LD_1 Old Footprint=LED-0805 New Footprint=LED-3mm
+Change Component Footprint: Designator=LD_2 Old Footprint=LED-0805 New Footprint=LED-3mm
+Added Room: Name=Schematic
